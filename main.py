@@ -155,7 +155,7 @@ def main_loop(api_key, interval=300):
         time.sleep(sleep_time)
 
 if __name__ == "__main__":
-    API_KEY = "CG-AoDLSTnUqmSFJTV1hp8MFTYZ"
+    API_KEY = ""
     
     print("Starting real-time cryptocurrency monitor...")
     print("Live data will be OVERWRITTEN in 'live_crypto_data.xlsx' every 5 minutes")
